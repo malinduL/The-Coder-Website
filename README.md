@@ -1,2 +1,1 @@
-# The-Coder-Website
-Freelancing Website
+# The Coder Website
