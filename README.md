@@ -5,3 +5,5 @@ services, including web, app, software, and graphics development.
 Utilized HTML, CSS, and responsive design principles to ensure an
 optimal user experience across devices. Integrated latest technologies to
 deliver streamlined and satisfying user experiences.
+
+<a href="https://the-coder-web.netlify.app/" target="_blank">**Visit Now** 🚀</a>
